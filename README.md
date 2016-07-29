@@ -16,6 +16,6 @@ _This is a simple website about my favorite band, Ladytron, created to experimen
 
 ## Technologies Used
 
-_HTML and CSS with an emphasis on floats_
+_HTML and CSS with an emphasis on floats, borders, padding, and margin_
 
 Copyright (c) 2016 **_Kevin Mizway_**
