@@ -1,0 +1,36 @@
+img {
+  float: left;
+  padding: 20px;
+}
+
+.sidebar {
+  float: right;
+  background-color: orange;
+  border: 2px solid green;
+  padding: 10px;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+button {
+  float: right;
+}
+
+.white-background {
+  background-color: white;
+}
+
+.black-background {
+  background-color: black;
+}
+
+.white-text {
+  color: white;
+}
+
+.black-text {
+  color: black;
+}
